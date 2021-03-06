@@ -1,0 +1,18 @@
+{
+  "name": "h4i-recommendations",
+  "main": "./src/index",
+  "version": "0.0.0",
+  "description": "Hack4Impact's Recommended Templates for Quality Project Development",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-plugin:toggle"
+  },
+  "repository": "https://github.com/atom/atom-plugin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
